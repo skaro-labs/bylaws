@@ -1,0 +1,36 @@
+This Confidential Non-Disclosure & Non-Compete Agreement (“Agreement”) is made between:
+ 
+[Insert Name]  (“Receiving Party”)
+[Insert Street Address]
+[Insert City, State Zip]
+ 
+ 
+[Insert Name] (“Disclosing Party”)
+[Insert Street Address]
+[Insert City, State Zip]
+ 
+On the understanding that both parties are interested in meeting to consider possible collaboration developments arising from Disclosing Party’s software projects, including computer programming, software architecting, graphic design, e-commerce, multimedia programming and design, it is agreed that all information whether oral, written or otherwise, that is supplied to the Receiving Party in the course of any meeting shall be treated as confidential by the Receiving Party.
+ 
+The Receiving Party undertakes not to use the information for any purpose, other than for the purpose of considering collaboration, without obtaining written agreement of the Disclosing Party.
+ 
+This Agreement applies to both technical and commercial information communicated by either Party.
+ 
+This Agreement does not apply to any information in the public domain or which the Receiving Party can show was either  already lawfully in their possession prior to its disclosure by the Disclosing Party or acquired without the involvement, either directly or indirectly, or the Disclosing Party.
+ 
+Receiving party shall not retain any documents or items connected with the disclosure after collaboration has ceased.
+ 
+No disclosure made by the Receiving Party shall create any license, title or interest in respect of any Intellectual Property Rights of the Disclosing Party.
+
+Insofar as it is allowed by applicable law, Receiving Party agrees not to engage in any employment, consulting, or other activity involving computer programming, graphic design, Internet or web site development, e-commerce, video or film production or editing, multimedia programming, or design that competes with the business, proposed business or business interests of Disclosing Party without Disclosing Party’s prior written consent.
+ 
+Receiving Party shall not solicit any of Disclosing Party’s clients or prospective clients to perform services that compete with the business, proposed business or business interests of Disclosing Party without Disclosing Party’s prior written consent, and Receiving Party will not assist any other person or entity in doing so, without Disclosing Party’s prior written consent.
+ 
+After 3 years from the executed date, each Party shall be relieved of all obligations under this Agreement.
+
+If any part of this agreement is be deemed invalid, unenforceable or otherwise nil?, the parties agree to continue to abide by the remainer of the document (a) within the closest scope allowed by law or, if no interpretation is within the scope of the law, then (b) as though it had not been included in the agreement.
+
+Signed ____________________________     “Disclosing Party”       Date _____________
+[Name]
+
+Signed ____________________________     “Receiving Party”        Date _____________
+[Name]
